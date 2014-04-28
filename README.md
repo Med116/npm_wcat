@@ -1,9 +1,12 @@
 #wcat
-========
-## cat for windows
-A module that prints a file's contents, and appends line numbers to each line on the way to process.stdout
+## cat tool for windows, works for linux as well
 
-## to install 
+I did not know how to print a file to the screen in windows, so I made this familiar command to do it.
+This is a module that prints a file's contents, and appends line numbers to each line on the way to process.stdout
+
+## to install
+
+(the -g means you can call this from anywhere on your system)
 
     npm install -g wcat
     
